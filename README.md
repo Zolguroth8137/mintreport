@@ -1,4 +1,4 @@
-# Mintreport
+# Mintreport NOT DONE YET MODIFYING IT
 
 This is a troubleshooting tool to analyse crash reports and browse through important information.
 
